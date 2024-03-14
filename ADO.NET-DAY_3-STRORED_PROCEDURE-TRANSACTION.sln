@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34601.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADO.NET-DAY_3-STRORED_PROCEDURE-TRANSACTION", "ADO.NET-DAY_3-STRORED_PROCEDURE-TRANSACTION\ADO.NET-DAY_3-STRORED_PROCEDURE-TRANSACTION.csproj", "{40C6D959-3EF0-43FF-BC34-2C723CDA48CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40C6D959-3EF0-43FF-BC34-2C723CDA48CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40C6D959-3EF0-43FF-BC34-2C723CDA48CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40C6D959-3EF0-43FF-BC34-2C723CDA48CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40C6D959-3EF0-43FF-BC34-2C723CDA48CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12BFCD1A-884C-4074-AE02-1D0295057535}
+	EndGlobalSection
+EndGlobal

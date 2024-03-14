@@ -1,0 +1,6 @@
+@ADO.NET_DAY_3_STRORED_PROCEDURE_TRANSACTION_HostAddress = http://localhost:5276
+
+GET {{ADO.NET_DAY_3_STRORED_PROCEDURE_TRANSACTION_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
